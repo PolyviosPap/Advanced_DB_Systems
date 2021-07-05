@@ -1,4 +1,4 @@
-# Advanced Topics in Database Systems NTUA
+# Advanced Topics in Database Systems ECE NTUA
 
 A project written in python for MapReduce a dataset, based on the k-Means algorithm.
 
